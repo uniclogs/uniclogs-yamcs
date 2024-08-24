@@ -1,3 +1,6 @@
+# Ignore all generated MDB's
+src/main/yamcs/mdb
+
 # IDE Stuff
 .idea/
 
